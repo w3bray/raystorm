@@ -24,7 +24,7 @@ Repo: w3bray/raystorm
 
 ---
 
-Installation
+## Installation
 
 Clone the repository:
 
@@ -42,7 +42,7 @@ pip install .
 
 ---
 
-Usage
+## Usage
 
 Run:
 
@@ -55,7 +55,7 @@ python3 raystorm.py example.com
 
 ---
 
-Proxy Support
+## Proxy Support
 
 To use a SOCKS5 proxy:
 
@@ -68,7 +68,7 @@ raystorm example.com -x --proxy-host 127.0.0.1 --proxy-port 8080
 
 ---
 
-Configuration Options
+## Configuration Options
 
 Run:
 
@@ -94,6 +94,6 @@ Available options:
 
 ---
 
-License
+## License
 
 This project is licensed under the MIT License.
