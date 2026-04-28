@@ -2,8 +2,7 @@
 
 ## What is Raystorm?
 
-Raystorm is a low-bandwidth HTTP stress testing tool based on the original Slowloris concept.
-
+Raystorm is a low-bandwidth HTTP stress testing tool.
 It works like this:
 
 1. It starts making lots of HTTP requests.
