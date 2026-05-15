@@ -28,11 +28,12 @@ Repo: w3bray/raystorm
 Clone the repository:
 
 git clone https://github.com/w3bray/raystorm.git
+
 cd raystorm
 
 Install dependencies:
 
-pip install PySocks
+apt update && apt install python3-socks
 
 Install locally:
 
