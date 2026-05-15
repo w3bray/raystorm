@@ -201,6 +201,7 @@ def raystorm_iteration():
 
 
 def main():
+    global args
     args = parser.parse_args()
     ip = args.host
     socket_count = args.sockets
