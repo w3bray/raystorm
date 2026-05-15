@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "raystorm"
+version = "1.0.0"
+description = "Ferramenta de teste de estresse HTTP de baixo consumo"
+readme = "README.md"
+requires-python = ">=3.6"
+
+dependencies = []
+
+[project.scripts]
+raystorm = "raystorm:main"
