@@ -201,6 +201,7 @@ def raystorm_iteration():
 
 
 def main():
+    parse_args()
     ip = args.host
     socket_count = args.sockets
     logging.info("Attacking %s with %s sockets.", ip, socket_count)
